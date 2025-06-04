@@ -1,0 +1,40 @@
+<section id="hero-10" class="m-hero-item glp-hero f-x-left f-y-center f-transparent f-precise-click mobile-large">
+    <picture>
+        <source srcset="" media="(min-width:1084px)">
+        <source srcset="" media="(min-width:0)">
+        <img srcset="" src="" alt="">
+    </picture>
+  <div>
+        <div class="cardContent high-contrast">
+
+            <div class="heroLogos">
+                <picture class="custCopyCardGPLogo">
+                     <source srcset="" media="(min-width:0)">
+                     <img class="c-image high-contrast-svg-black" src="" alt="">
+                </picture> 
+             </div>
+
+            <h1 class="c-heading-2 heroTitle high-contrast zpt"></h1>
+           
+           <div class="copyCardDesc">
+                <p class="high-contrast zpt"></p>
+            </div >
+
+           <div class="heroPad48 heroAvailableDate">
+                <p class="c-paragraph-1 high-contrast zpt"></p>
+                <p class="c-paragraph-1 high-contrast zpt"></p>
+            </div>
+
+
+            <div class="heroCTA ctaPadTop">
+               <a href="" class="c-call-to-action c-glyph ignoreApi" data-cta="learn">   
+                 <span>JOIN GAME PASS</span>
+               </a>
+               <a href="javascript:void(0)" class="c-call-to-action c-glyph OttoGallery lightboxplaybutton green-brdr link-marg-left mobGetItNowCta  ignoreApi" role="button" id="33ImMortals-trailer" data-otto-type="lightbox" data-otto-lightbox-container="body" data-otto-lightbox-vid-vertical-placement="2%" data-otto-iframe-src="https://www.microsoft.com/en-us/videoplayer/embed/RW15VVJ?autoplay=false" aria-label="Play Trailer, opens and plays trailer">
+                       <span>PLAY TRAILER</span>
+                  </a>
+            </div>
+          
+        </div>
+    </div>
+</section>
